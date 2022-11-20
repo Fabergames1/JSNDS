@@ -4,3 +4,4 @@
 # A S Z X Q W - BOTOES DO NDS
 # TOUCH - FUNCIONAL
 # Para testar melhor o emulador favor visitar o link https://danihre.github.io/js-nds/
+# Biblioteca Desmond voce pode conferir neste link  https://github.com/js-emulators/desmond
